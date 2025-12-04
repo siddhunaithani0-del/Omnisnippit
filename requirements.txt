@@ -66,3 +66,4 @@ ultralytics-thop==2.0.18
 urllib3==2.5.0
 watchdog==6.0.0
 
+
